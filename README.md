@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a Computer Science and AI student with a strong passion for technology, problem-solving, and building impactful digital solutions. My interests lie in software development, machine learning, data analysis, and backend engineering, with hands-on experience developing scalable applications and data-driven systems.<br>I enjoy turning ideas into practical solutions through a combination of technical expertise, analytical thinking, and continuous learning. Over time, I have worked on projects involving automation, APIs, machine learning workflows, and data analysis, which have strengthened both my development and collaborative skills.<br>Beyond technical work, I value leadership, adaptability, and innovation. I actively participate in competitive programming, collaborative projects, and tech communities, constantly challenging myself to grow both personally and professionally. My goal is to contribute to meaningful projects, learn from real-world experiences, and create technology that delivers lasting value.
+I am a Computer Science and AI student with a strong passion for technology, problem-solving, and building impactful digital solutions. My interests lie in software development, machine learning, data analysis, and backend engineering, with hands-on experience developing scalable applications and data-driven systems.
+
+<br>I enjoy turning ideas into practical solutions through a combination of technical expertise, analytical thinking, and continuous learning. Over time, I have worked on projects involving automation, APIs, machine learning workflows, and data analysis, which have strengthened both my development and collaborative skills.
+
+<br>Beyond technical work, I value leadership, adaptability, and innovation. I actively participate in competitive programming, collaborative projects, and tech communities, constantly challenging myself to grow both personally and professionally. My goal is to contribute to meaningful projects, learn from real-world experiences, and create technology that delivers lasting value.
 
 
 ## 🌐 Socials:
